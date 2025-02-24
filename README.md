@@ -53,14 +53,12 @@ Select the OS Image (like Windows Server 2019 or Ubuntu 20.04).
 Choose a Size based on CPU and RAM needs.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/583843b0-29bb-4c17-8cff-b43ce0968c6a)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 3: Set Up Networking
+
+Ensure a Virtual Network and Subnet are selected or created.
+
+Configure Public IP if remote access is needed.
+
+Select the appropriate Inbound Ports (like RDP for Windows or SSH for Linux).
