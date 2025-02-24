@@ -62,3 +62,16 @@ Ensure a Virtual Network and Subnet are selected or created.
 Configure Public IP if remote access is needed.
 
 Select the appropriate Inbound Ports (like RDP for Windows or SSH for Linux).
+
+
+![image](https://github.com/user-attachments/assets/7e42832a-6381-409e-8529-f6de7cd8ea23)
+
+Step 4: Review, Create, and Access VM
+
+Review all your settings and click "Create".
+
+Once deployment is complete, go to your VM in the Virtual Machines section.
+
+Click "Connect" and choose your connection method.
+
+Follow the on-screen instructions to access your VM.
