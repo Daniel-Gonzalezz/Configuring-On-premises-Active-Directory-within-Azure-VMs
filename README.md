@@ -27,10 +27,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Step 1: Log into Azure Portal and Start VM Creation
 
 Open your browser and go to https://portal.azure.com.
@@ -40,6 +36,10 @@ Sign in using your Microsoft Azure credentials.
 Search for "Virtual Machines" in the top search bar and select "Virtual Machines" from the results.
 
 Click the "+ Create" button and select "Azure virtual machine".
+
+![image](https://github.com/user-attachments/assets/facec423-5635-4530-aa18-0e5396a0c7ce)
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
